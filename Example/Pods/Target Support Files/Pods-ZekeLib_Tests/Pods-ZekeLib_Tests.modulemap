@@ -1,0 +1,6 @@
+framework module Pods_ZekeLib_Tests {
+  umbrella header "Pods-ZekeLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
